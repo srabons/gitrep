@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitrep/static/css/main.2543b9d3.css",
+    "main.js": "/gitrep/static/js/main.e0d1f403.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gitrep/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/gitrep/index.html",
+    "main.2543b9d3.css.map": "/gitrep/static/css/main.2543b9d3.css.map",
+    "main.e0d1f403.js.map": "/gitrep/static/js/main.e0d1f403.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gitrep/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.e0d1f403.js"
+  ]
+}
